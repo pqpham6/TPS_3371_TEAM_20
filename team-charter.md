@@ -1,35 +1,40 @@
 # Team Charter
 
-## Project
-Patient Referral Management System
+**Project:** Patient Referral Management System
+**Team:** TPS_3371_TEAM_20
 
-## Team Members and Roles
+## Roles and Responsibilities
+Roles are primary ownership — not silos. Everyone reviews every deliverable.
 
-| Name | Role | Primary Responsibilities |
+| Name | Role | Primary Ownership |
 |---|---|---|
-| **Peter** | Team Lead / PM | Coordinates team schedule, tracks milestone deadlines, facilitates communication with instructor, ensures deliverables are complete and submitted on time. |
-| **Daja** | Requirements & Documentation | Leads development of business problem, stakeholders, requirements, and rules/states documentation; ensures consistency across written deliverables. |
-| **Sophia** | Systems Analyst / Design | Leads main transaction and scope definition; maps workflows and state diagrams for the referral lifecycle. |
-| **Elizabeth** | Development Lead | Leads technical implementation of the system in later milestones; sets up and maintains the GitHub repository structure. |
-| **Yoki** | QA / Testing & Coordination | Reviews deliverables for completeness and quality before submission; coordinates testing efforts in later milestones. |
+| **Peter** | Team Lead / PM | Schedule, milestone tracking, instructor communication, final submission |
+| **Daja** | Requirements & Documentation Lead | Business problem, stakeholders, requirements, user stories, business rules; consistency across documents |
+| **Sophia** | Systems Analyst / Design Lead | Main transaction, scope, state model; form layout, labels, and accessibility (UI) |
+| **Elizabeth** | Development & Git Lead | Repository setup, branch/PR workflow, integration; application logic and business-rule code in later milestones |
+| **Yoki** | QA / Testing Lead | Acceptance-criteria test cases, evidence screenshots, pre-submission review |
 
-*(Roles are a starting point for Milestone 1 and may be adjusted by the team as the project progresses into development phases.)*
+## Communication
+- **Channel:** Microsoft Teams (section team space). Team decisions are posted and recorded in the Teams channel.
+- **Meetings:** Weekly check-in, [DAY] at [TIME], plus a review meeting at least one day before every due date.
+- **Response time:** Reply within 24 hours on workdays.
+- **Records:** Meeting notes and decisions are logged in the Teams channel.
 
-## Team Communication
-- **Primary channel:** Microsoft Teams (section team space) for day-to-day communication.
-- **Meeting cadence:** Weekly check-in call/meeting (day/time to be agreed upon by the team), plus ad-hoc messages as needed leading up to deadlines.
-- **Response expectations:** Team members will respond to Teams messages within 24 hours on weekdays.
-- **Documentation:** All meeting notes and decisions will be briefly logged in the team's GitHub repository or shared Teams channel for reference.
+## Git Workflow
+- Pull the latest `main` before starting any work.
+- Work on a focused branch per task (e.g., `docs/requirements`, `feature/referral-form`).
+- Write meaningful commit messages that say what changed.
+- Open a pull request to merge into `main`; at least one other member reviews it before merge.
+- Never commit real patient data, passwords, or API keys.
 
 ## Decision-Making
-- Decisions on project direction will be made by team consensus where possible.
-- If consensus cannot be reached, the Team Lead (Peter) will make the final call after hearing all input.
+- Decisions are made by consensus where possible.
+- If the team cannot agree, the Team Lead makes the final call after hearing all input, and the decision is recorded in Teams.
 
-## Working Agreements
-- All team members are expected to contribute to their assigned sections and review the full document set before submission.
-- Work should be pushed to GitHub with clear commit messages so all members can track progress.
-- If a team member anticipates missing a deadline or needs help, they should communicate this to the team as early as possible rather than at the last minute.
-- Milestone deliverables will be reviewed as a team at least one day before the due date to allow time for corrections.
+## Accountability
+- Every member contributes commits and evidence to the repository under their own GitHub account.
+- Every member must be able to explain the project's requirements, rules, and code decisions during individual code defense.
+- A member who expects to miss a commitment tells the team as early as possible; missed commitments are documented in Teams.
 
 ## Conflict Resolution
-Any disagreements will first be discussed openly within the team. If unresolved, the Team Lead will help mediate, and the team will escalate to the instructor only if necessary.
+Disagreements are first discussed openly within the team. If unresolved, the Team Lead mediates. The team escalates to the instructor only if necessary.
