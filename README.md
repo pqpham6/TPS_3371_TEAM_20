@@ -22,20 +22,6 @@ All demo data is fictional — no real patient information is used.
 | Elizabeth | Development & Git Lead |
 | Yoki | QA / Testing Lead |
 
-## Milestone 1 Documents
-| # | Deliverable | File |
-|---|---|---|
-| 1 | Business Problem + Scope | [docs/business-problem-scope.md](docs/business-problem-scope.md) |
-| 2 | Stakeholders | [docs/stakeholders.md](docs/stakeholders.md) |
-| 3 | Main Transaction | [docs/main-transaction.md](docs/main-transaction.md) |
-| 4 | Requirements (Functional + Quality) | [docs/requirements.md](docs/requirements.md) |
-| 5 | User Stories + Acceptance Criteria | [docs/user-stories-acceptance.md](docs/user-stories-acceptance.md) |
-| 6 | Business Rules + States | [docs/business-rules-states.md](docs/business-rules-states.md) |
-| 7 | Team Charter | [docs/team-charter.md](docs/team-charter.md) |
-| 8 | GitHub Repository | This repository |
-
-Presentation: [Milestone1_Patient_Referral.pptx](Milestone1_Patient_Referral.pptx)
-
 ## Repository Structure
 ```
 TPS_3371_TEAM_20/

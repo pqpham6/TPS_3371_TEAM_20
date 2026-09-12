@@ -16,7 +16,7 @@ Roles are primary ownership — not silos. Everyone reviews every deliverable.
 
 ## Communication
 - **Channel:** Microsoft Teams (section team space). Team decisions are posted and recorded in the Teams channel.
-- **Meetings:** Weekly check-in, [DAY] at [TIME], plus a review meeting at least one day before every due date.
+- **Meetings:** Weekly check-in, plus a review meeting at least one day before every due date.
 - **Response time:** Reply within 24 hours on workdays.
 - **Records:** Meeting notes and decisions are logged in the Teams channel.
 
